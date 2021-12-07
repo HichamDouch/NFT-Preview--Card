@@ -1,4 +1,8 @@
 # NFT Preview Card HTML+CSS
 This is a simple static NFT preview card with Html css, yougit  can use it as a component in Vue, React  or other framework.
 
+# Card Preview
+
+![NFT Preview Card](/images/nft-preview-card.png#gh-dark-mode-only)
+
 Enjoy!!!!!!!!
